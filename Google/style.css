@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&family=Roboto+Slab:wght@100..900&display=swap');
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Playwrite HR Lijeva", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+    word-spacing: 5px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: #167D7F;
+    text-align: center;
+}
+
+.box {
+    background-color: #DDFFE7;
+    height: 200vh;
+    border: solid #DEACB3 50px;
+    padding-top: 10px;
+    border-width: 5px;
+}
+
+p {
+    text-align: center;
+    font-weight: 400px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.my-cloud {
+    text-align: center;
+}
+
+div.dashboard {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}

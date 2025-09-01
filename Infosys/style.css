@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+h1 {
+    background-color: #aba698;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400px;
+    font-style: italic;
+}
+
+.my-container {
+    text-align: center;
+    background-color: #5c7369;
+    height: 140vh;
+}
+
+.my-device {
+    text-align: left;
+    background-color: #5c7369;
+    height: 140vh;
+}
+
+.my-room {
+    text-align: center;
+    background-color: #5c7369;
+}

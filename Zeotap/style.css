@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playwrite+BE+VLG:wght@100..400&family=Playwrite+DE+VA+Guides&family=Playwrite+GB+J+Guides:ital@0;1&family=Playwrite+HR+Lijeva:wght@100..400&family=Roboto+Slab:wght@100..900&display=swap');
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(105, 46, 213);
+    background-color: rgb(54, 234, 177);
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.my-conatiner {
+    background-color: rgb(228, 200, 164);
+    height: 700px;
+}
+
+h2 {
+    text-align: left;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+.my-device {
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+h1 {
+    color: #c9edad;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400 px;
+    font-style: italic;
+}
+
+p {
+    color: black;
+}
+
+button {
+    color: #080808;
+}
+
+.my-container {
+    height: 150vh;
+    text-align: center;
+    background-color: #598b7f;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+h1 {
+    text-align: center;
+    color: rgb(104, 28, 236);
+    font-family: "Baskervville SC", serif;
+    font-weight: 400px;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    color: black
+}
+
+button {
+    text-align: center;
+    color: #080808;
+}
+
+.my-job {
+    text-align: left;
+}
+
+.my-container {
+    background-color: #63b49d;
+    height: 90vh;
+}
+
+.my-cloud {
+    text-align: center;
+}
+
+.my-range {
+    text-align: center;
+}

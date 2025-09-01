@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+    word-spacing: 5px;
+    text-decoration: underline;
+    font-family: "Playwrite HU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: "Playwrite HU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
+h3 {
+    font-family: "Playwrite HU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.box {
+    background-color: rgb(246, 170, 70);
+    height: 200vh;
+    border: solid #DEACB3 50px;
+    padding-top: 10px;
+    border-width: 5px;
+}
+
+.my-container {
+    text-align: center;
+}
+
+.my-cloud {
+    text-align: center;
+}
+
+div.dashboard {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
