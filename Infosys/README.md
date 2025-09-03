@@ -7,5 +7,5 @@ Features
 - Simple and responsive structure
 
 Technologies Used
--HTML
--CSS
+- HTML
+- CSS
